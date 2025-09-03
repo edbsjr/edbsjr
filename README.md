@@ -12,7 +12,7 @@ Desenvolvedor Back-end em formação com foco em **Java, Spring Boot e SQL**. At
 ## Projetos Destacados ✨
 
 -   **Microsserviço de Autenticação (ms-autenticacao):** Microsserviço em Spring Boot para gestão de autenticação, usuários e emissão de tokens JWT, seguindo Arquitetura Hexagonal.
-    -   [Link para o repositório do ms-autenticacao](https://github.com/edbsjr/ms-autenticacao)
+    -   [Link para o repositório do ms-autenticacao](https://github.com/edbsjr/ms-autenticacao-banco-digital)
 -   **Sistema Bancário - Esquema de Banco de Dados Relacional:** Modelagem e implementação de um esquema de banco de dados MySQL para operações bancárias (clientes, contas, transações, etc.).
     -   [Link para o repositório do meu-sistema-bancario](https://github.com/edbsjr/meu-sistema-bancario)
 
